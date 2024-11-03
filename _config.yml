@@ -1,12 +1,9 @@
-# Hexo Configuration
-## Docs: https://hexo.io/docs/configuration.html
-## Source: https://github.com/hexojs/hexo/
-
-# Site
-title: Hexo
+# Hexo 配置 =========================================================
+# Site 配置 =========================================================
+title: 皮卡丘的博客
 subtitle: ''
 description: ''
-keywords:
+keywords: ''
 author: Pikachu Ren
 # Extensions
 ## Plugins: https://hexo.io/plugins/
@@ -17,8 +14,7 @@ language: en  # 指定语言
 timezone: ''
 
 # URL
-## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://pikachuim.github.io/blog/
 permalink: /post/:title.html # Aurora主题设置
 #permalink: :year/:month/:day/:title/
 permalink_defaults:
