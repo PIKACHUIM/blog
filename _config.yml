@@ -104,4 +104,7 @@ ignore:
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/PIKACHUIM/blog.git
+  branch: page
+  message: 'Auto Deployment'
